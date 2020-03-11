@@ -1,0 +1,123 @@
+{
+  "KPUsers": {
+    "host": "192.168.19.205",
+    "user": "root",
+    "password": "mlinc1234",
+    "database": "kpdomestic",
+    "port": "3306",
+    "pool": {
+      "maxConnections": "5000",
+      "maxIdleTime": "5000"
+    }
+  },
+  "Domestic": {
+    "host": "192.168.19.205",
+    "user": "root",
+    "password": "mlinc1234",
+    "database": "kpdomestic",
+    "port": "3306",
+    "pool": {
+      "maxConnections": "5000",
+      "maxIdleTime": "5000"
+    }
+  },
+  "KP8": {
+    "host": "192.168.12.218",
+    "user": "root",
+    "password": "mlinc1234",
+    "database": "kptransactions",
+    "port": "3306",
+    "pool": {
+      "maxConnections": "5000",
+      "maxIdleTime": "5000"
+    }
+  },
+  "Billspay": {
+    "host": "192.168.19.68",
+    "user": "root",
+    "password": "mlinc1234",
+    "database": "kpbillspayment",
+    "pool": {
+      "maxConnections": "5000",
+      "maxIdleTime": "5000"
+    }
+  },
+  "PartnersAPI_OLD": {
+    "host": "192.168.19.186",
+    "user": "root",
+    "password": "mlinc1234",
+    "pool": {
+      "maxConnections": "5000",
+      "maxIdleTime": "5000"
+    }
+  },
+  "PartnersAPI_NEW": {
+    "host": "192.168.19.156",
+    "user": "root",
+    "password": "mlinc1234",
+    "pool": {
+      "maxConnections": "5000",
+      "maxIdleTime": "5000"
+    }
+  },
+  "PartnersWebService": {
+    "host": "192.168.19.25",
+    "user": "root",
+    "password": "mlinc1234",
+    "database": "kppartners",
+    "pool": {
+      "maxConnections": "5000",
+      "maxIdleTime": "5000"
+    }
+  },
+  "PartnersFileUpload": {
+    "host": "192.168.19.82",
+    "user": "root",
+    "password": "mlinc1234",
+    "database": "kppartners",
+    "pool": {
+      "maxConnections": "5000",
+      "maxIdleTime": "5000"
+    }
+  },
+  "Global": {
+    "host": "192.168.12.108",
+    "user": "root",
+    "password": "mlinc1234",
+    "database": "kpglobal",
+    "pool": {
+      "maxConnections": "5000",
+      "maxIdleTime": "5000"
+    }
+  },
+  "Wallet": {
+    "host": "192.168.19.177",
+    "user": "root",
+    "password": "mlinc1234",
+    "database": "loansettings",
+    "pool": {
+      "maxConnections": "5000",
+      "maxIdleTime": "5000"
+    }
+  },
+  "KPTOGO": {
+    "host": "192.168.19.83",
+    "user": "root",
+    "password": "mlinc1234",
+    "database": "kptogoadmin",
+    "pool": {
+      "maxConnections": "5000",
+      "maxIdleTime": "5000"
+    }
+  },
+  "Express": {
+    "host": "192.168.19.94",
+    "user": "root",
+    "password": "mlinc1234",
+    "database": "kpOFW",
+    "pool": {
+      "maxConnections": "5000",
+      "maxIdleTime": "5000"
+    }
+  }
+}
