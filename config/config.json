@@ -1,8 +1,8 @@
 {
   "KPUsers": {
-    "host": "192.168.19.205",
+    "host": "localhost",
     "user": "root",
-    "password": "mlinc1234",
+    "password": "1234",
     "database": "kpdomestic",
     "port": "3306",
     "pool": {
@@ -11,9 +11,9 @@
     }
   },
   "Domestic": {
-    "host": "192.168.19.205",
+    "host": "localhost",
     "user": "root",
-    "password": "mlinc1234",
+    "password": "1234",
     "database": "kpdomestic",
     "port": "3306",
     "pool": {
@@ -22,9 +22,9 @@
     }
   },
   "KP8": {
-    "host": "192.168.12.218",
+    "host": "localhost",
     "user": "root",
-    "password": "mlinc1234",
+    "password": "1234",
     "database": "kptransactions",
     "port": "3306",
     "pool": {
@@ -33,9 +33,9 @@
     }
   },
   "Billspay": {
-    "host": "192.168.19.68",
+    "host": "localhost",
     "user": "root",
-    "password": "mlinc1234",
+    "password": "1234",
     "database": "kpbillspayment",
     "pool": {
       "maxConnections": "5000",
@@ -43,27 +43,27 @@
     }
   },
   "PartnersAPI_OLD": {
-    "host": "192.168.19.186",
+    "host": "localhost",
     "user": "root",
-    "password": "mlinc1234",
+    "password": "1234",
     "pool": {
       "maxConnections": "5000",
       "maxIdleTime": "5000"
     }
   },
   "PartnersAPI_NEW": {
-    "host": "192.168.19.156",
+    "host": "localhost",
     "user": "root",
-    "password": "mlinc1234",
+    "password": "1234",
     "pool": {
       "maxConnections": "5000",
       "maxIdleTime": "5000"
     }
   },
   "PartnersWebService": {
-    "host": "192.168.19.25",
+    "host": "localhost",
     "user": "root",
-    "password": "mlinc1234",
+    "password": "1234",
     "database": "kppartners",
     "pool": {
       "maxConnections": "5000",
@@ -71,9 +71,9 @@
     }
   },
   "PartnersFileUpload": {
-    "host": "192.168.19.82",
+    "host": "localhost",
     "user": "root",
-    "password": "mlinc1234",
+    "password": "1234",
     "database": "kppartners",
     "pool": {
       "maxConnections": "5000",
@@ -81,9 +81,9 @@
     }
   },
   "Global": {
-    "host": "192.168.12.108",
+    "host": "localhost",
     "user": "root",
-    "password": "mlinc1234",
+    "password": "1234",
     "database": "kpglobal",
     "pool": {
       "maxConnections": "5000",
@@ -91,9 +91,9 @@
     }
   },
   "Wallet": {
-    "host": "192.168.19.177",
+    "host": "localhost",
     "user": "root",
-    "password": "mlinc1234",
+    "password": "1234",
     "database": "loansettings",
     "pool": {
       "maxConnections": "5000",
@@ -101,9 +101,9 @@
     }
   },
   "KPTOGO": {
-    "host": "192.168.19.83",
+    "host": "localhost",
     "user": "root",
-    "password": "mlinc1234",
+    "password": "1234",
     "database": "kptogoadmin",
     "pool": {
       "maxConnections": "5000",
@@ -111,9 +111,9 @@
     }
   },
   "Express": {
-    "host": "192.168.19.94",
+    "host": "localhost",
     "user": "root",
-    "password": "mlinc1234",
+    "password": "1234",
     "database": "kpOFW",
     "pool": {
       "maxConnections": "5000",
